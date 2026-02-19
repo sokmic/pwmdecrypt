@@ -9,4 +9,5 @@ Run:
 java -cp "*" pwmdecrypt.java PwmConfiguration.xml
 ```
 Any encrypted "PASSWORD" type values in the file will be decrypted and displayed.
-<img width="1510" height="132" alt="image" src="https://github.com/user-attachments/assets/494eea36-9a73-4d4c-aa10-5811a09ffc44" />
+<img width="1508" height="131" alt="image" src="https://github.com/user-attachments/assets/f4a76f6c-3b35-4573-b0a3-e87bc9528b27" />
+
